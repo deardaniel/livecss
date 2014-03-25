@@ -9,7 +9,7 @@ The foreground color is selected oppositely.
 I tried to make code as readable as I can and I will keep on improving documentation quality.
 Nice html documentation is available [here][1]
 
-#Featuers:
+#Features:
 - Live on-the-fly colorization
 - Or using ST commands
 - Less/SCSS/CSS support
